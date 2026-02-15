@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, ich bin Sascha 👋
 
-<!--
-**Saschaqt/Saschaqt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Vibe Coder & Student der Angewandten Informatik (4. Sem.)**
 
-Here are some ideas to get you started:
+Ich nutze die Synergie aus KI und Workflow-Automatisierung, um Ideen in Rekordzeit umzusetzen. 
+Mein Fokus liegt auf effizienten Systemen und modernem Tooling (n8n, Antigravity, LLMs).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Fokus & Expertise
+* **Vibe Coding:** Schnelle Iteration und Prototyping durch KI-Unterstützung.
+* **Automatisierung:** Workflow-Design mit **n8n** und Python.
+* **Innovation:** Ständige Auseinandersetzung mit neuen Konzepten der Softwareentwicklung.
+
+### 🛠️ Tech Stack
+* **Automation:** n8n, Mac Automation (Shortcuts)
+* **AI Tooling:** OpenAI API, Anthropic, Antigravity
+* **Languages:** Python, JavaScript, SQL
+* **Academic:** Angewandte Informatik (Schwerpunkt: Software Engineering & Development)
+
+---
+
+### 🏗️ Aktuell in Arbeit
+* 🔄 **Automated Agent Workflows:** Entwicklung von KI-Agenten, die Aufgaben autonom via n8n erledigen.
+* 📂 **Vibe Coding:** Spontane Ideen durch KI-Unterstützung in Rekordzeit verwirklichen.
+* 🎓 **Studium:** Vertiefung in Software-Architektur und KI-Integration.
+
+---
+
+### 📫 Kontakt
+* 💬 Frag mich gerne zu: **Workflow-Automatisierung** oder **Modernem Tooling**
