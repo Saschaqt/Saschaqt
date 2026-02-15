@@ -1,6 +1,6 @@
 # Hi, ich bin Sascha 👋
 
-**Vibe Coder & Student der Angewandten Informatik (4. Sem.)**
+**Vibe Coder & Student der Angewandten Informatik (5. Sem.)**
 
 Ich nutze die Synergie aus KI und Workflow-Automatisierung, um Ideen in Rekordzeit umzusetzen. 
 Mein Fokus liegt auf effizienten Systemen und modernem Tooling (n8n, Antigravity, LLMs).
