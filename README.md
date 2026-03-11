@@ -27,7 +27,7 @@ Hier ist eine Auswahl meiner Projekte – teils klassisch programmiert, teils du
     *Ein spezialisierter Bot für Wasseranalysen und Fischpflege. Mein Deep-Dive in LLM-Kontextualisierung.*
 *   **🎾 [Padel Tournament Manager](https://sascha-qt.lovable.app)**  
     *Effizientes Management für Turniere. Fokus auf automatisierte Spielpläne und intuitive UI.*
-*   **🎸 [Rockstart](https://rockstart-five.vercel.app/) (Uni-Projekt)**  
+*   **🎸 [Rockstart](https://heatslick.sascha-demo.de/) (Uni-Projekt)**  
     *Pure Web-Development: Eine responsive Website, komplett "from scratch" mit HTML, CSS und JS gebaut.*
 *   **🤖 Workflow Automation**  
     *Diverse Automatisierungen mit **n8n**, um Entwicklungs-Workflows und Datenflüsse zu optimieren.*
