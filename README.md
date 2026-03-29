@@ -13,8 +13,8 @@ Ich verbinde klassisches Informatik-Wissen aus dem Studium mit modernsten **AI-N
 * **Innovation:** Ständige Auseinandersetzung mit neuen Konzepten der Softwareentwicklung.
 
 ### 🛠️ Tech Stack
-* **Automation:** n8n, Mac Automation (Shortcuts)
-* **AI Tooling:** OpenAI, Claude Code
+* **Automation:** n8n, RAG-Systeme
+* **AI Tooling:** Claude Code
 * **Languages:** Python, JavaScript, SQL
 * **Academic:** Angewandte Informatik (Schwerpunkt: Software Engineering & Development)
 
