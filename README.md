@@ -1,47 +1,39 @@
-# Hi, ich bin Sascha 👋
+# Hey, ich bin Sascha 👋
 
-🚀 Informatik-Student (5. Semester) & AI Explorer
-
-Ich verbinde klassisches Informatik-Wissen aus dem Studium mit modernsten **AI-Native Workflows**. Mein Fokus liegt aktuell darauf, die Grenze zwischen menschlicher Kreativität und KI-gestützter Umsetzung durch **Vibe Coding** und **Automation** zu verschieben.
+Ich studiere **Angewandte Informatik (B.Sc.)** an der Hochschule Worms und brenne für KI, Automatisierung und moderne Softwareentwicklung. Ich baue lieber als ich nur darüber rede.
 
 ---
 
-### 🚀 Fokus & Expertise
-* **Prompt Engineering:** Schnelle Iteration und Prototyping durch KI-Unterstützung.
-* **KI-Agenten:** Entwicklung und Steuerung autonomer Workflows mit **Claude Code**.
-* **Automatisierung:** Workflow-Design mit **n8n** und Python.
-* **Innovation:** Ständige Auseinandersetzung mit neuen Konzepten der Softwareentwicklung.
+## Was ich gerade mache
 
-### 🛠️ Tech Stack
-* **Automation:** n8n, RAG-Systeme
-* **AI Tooling:** Claude Code
-* **Languages:** Python, JavaScript, SQL
-* **Academic:** Angewandte Informatik (Schwerpunkt: Software Engineering & Development)
+- 🤖 Werkstudent **KI & Prozessautomatisierung** – ich automatisiere Geschäftsprozesse mit n8n und entwickle Software durch Agentic Coding mit Claude Code
+- 🎓 Tutor für **Software Engineering** – UML und Design Patterns an der Hochschule
+- 🌏 Plane mein Auslandssemester an der **Soongsil University in Seoul, Südkorea** (Aug–Dez 2026)
 
 ---
 
-### 🏗️ Aktuell in Arbeit
-Hier ist eine Auswahl meiner Projekte – teils klassisch programmiert, teils durch KI-Agenten "ge-vibe-codet":
+## Tech Stack
 
-*   **🐠 [Aquaristik KI-Chatbot](https://aquabot.sascha-demo.de/)**  
-    *Ein spezialisierter Bot für Wasseranalysen und Fischpflege. Mein Deep-Dive in LLM-Kontextualisierung.*
-*   **🎾 [Padel Tournament Manager](https://sascha-qt.lovable.app)**  
-    *Effizientes Management für Turniere. Fokus auf automatisierte Spielpläne und intuitive UI.*
-*   **🎸 [Rockstart](https://heatslick.sascha-demo.de/) (Uni-Projekt)**  
-    *Pure Web-Development: Eine responsive Website, komplett "from scratch" mit HTML, CSS und JS gebaut.*
-*   **🤖 Workflow Automation**  
-    *Diverse Automatisierungen mit **n8n**, um Entwicklungs-Workflows und Datenflüsse zu optimieren.*
-* 🎓 **Studium:** Vertiefung in Software-Architektur und KI-Integration.
+<p>
+  <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,postgres,docker,git" />
+</p>
+
+**Aktueller Fokus:** 
+- KI-Workflows
+- Prompt Engineering
+- Claude Code
+---
+
+## Sprachen
+
+🇩🇪 Deutsch — Muttersprache  
+🇬🇧 Englisch — Fließend  
+🇷🇺 Russisch — Konversationssicher
 
 ---
 
-### 🧠 My "Vibe Coding" Philosophy
+## Kontakt
 
-Ich nutze KI nicht nur als Autocomplete, sondern als **Pair Programmer**. Tools wie **Claude Code** ermöglichen es mir, mich auf die Architektur und das Problemlösen zu konzentrieren, während ich die Implementierungsgeschwindigkeit massiv steigere. 
-
-> "Code is the byproduct, solving problems is the goal."
-
----
-
-### 📫 Kontakt
-*   **[LinkedIn](https://www.linkedin.com/in/sascha-quint/)**
+- 🌐 [Portfolio](https://saschaqt.github.io)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sascha-quint/)
+- 📬 [Email](mailto:quintsascha03@gmail.com)
